@@ -1,13 +1,14 @@
 numpy
-numba
 brainpylib
-jax < 0.4.24
-jaxlib < 0.4.24
+jax
+jaxlib
 matplotlib
 msgpack
 tqdm
 pathos
-taichi==1.7.0
+taichi
+numba
+
 
 # test requirements
 pytest
